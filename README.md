@@ -32,3 +32,7 @@ Use "git clone https://github.com/AaronVer/ProjectUno/" to clone it into an inte
 ----------------------------------------------------
 1. Run program and leave it running in InteliJ
 2. Use Postman to interact with "localport:8000" to activate the backends and front ends of the program.
+
+**License**
+----------------------------------------------------
+None.
